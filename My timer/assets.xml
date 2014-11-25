@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.0">
+  <sounds />
+  <images>
+    <image name="caveman">
+      <file name="caveman.png" size="1930" />
+    </image>
+    <image name="GAME BACKGROUND">
+      <file name="GAME BACKGROUND.png" size="680" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
